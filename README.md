@@ -1,13 +1,15 @@
-![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif)
+<div align="center">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif" alt="Header Image">
+</div>
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">A current computer science master's student at UCL</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif”>
+<h3 align="center">A current Computer Science Master's student at UCL</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 I’m currently working on **Humanitarian Management System**
+- 🔭 I’m currently working on a **Humanitarian Management System**
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 Website Pending [Pending](Pending)
+- 👨‍💻 Website Pending
 
 - 📫 How to reach me **https://www.linkedin.com/in/ltheodorou/**
 
