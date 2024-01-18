@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Crowdfunding Web App for Underfunded Schools in the UK**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JS, ReactJS, and NodeJS**
 
 - 👨‍💻 Website Pending
 
