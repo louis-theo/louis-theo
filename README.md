@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **I’m currently learning JS, ReactJS, and NodeJS**
 
-- 👨‍💻 Website Pending [.](.)
+- 👨‍💻 Website Pending
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
