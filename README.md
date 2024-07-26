@@ -5,9 +5,9 @@
 <h3 align="center">A Current Computer Science Master's Student at UCL</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 I’m currently working on **a Crowdfunding Web App for Underfunded Schools in the UK**
+- 🔭 I’m currently working on **an NLP pipleine to detect bias by omission in news articles**
 
-- 🌱 I’m currently learning **JS, ReactJS, and NodeJS**
+- 🌱 I’m currently **Improving my Python Skills for ML Applications**
 
 - 👨‍💻 Website Pending
 
