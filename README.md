@@ -2,7 +2,7 @@
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif" alt="Header Image">
 </div>
 <h1 align="center">Hi👋, I'm Louis</h1>
-<h3 align="center">A Current Computer Science Master's Student at UCL</h3>
+<h3 align="center">A Full Stack Engineer with Experience in Python.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🔭 I’m currently working on **an NLP pipleine to detect bias by omission in news articles**
